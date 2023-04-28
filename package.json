@@ -1,5 +1,6 @@
 {
-  "name": "my-app",
+  "name": "credit-card-validator",
+  "homepage": "https://gatamara.github.io/credit-card-validator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

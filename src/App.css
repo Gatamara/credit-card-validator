@@ -1,0 +1,14 @@
+.error-menssage {
+    color: red;
+    margin-top: -8px;
+}
+
+.input {
+    border-radius: 4px;
+    padding: 8px;
+    font-size: 1rem;
+    border: none;
+    background-color: #536976;
+    margin: 16px;
+    color: white;
+}
